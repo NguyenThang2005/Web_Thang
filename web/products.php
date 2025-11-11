@@ -46,7 +46,7 @@
         <option value="500000-1000000">500.000₫ - 1.000.000₫</option>
         <option value="1000000-3000000">1.000.000₫ - 3.000.000₫</option>
         <option value="3000000-5000000">3.000.000₫ - 5.000.000₫</option>
-        <option value="5000000-99999999">Trên 5.000.000₫</option>
+        <option value="5000000-99999999">Trên 7.000.000₫</option>
       </select>
 
       <button id="btnFilter" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 col-span-2 md:col-span-1">
